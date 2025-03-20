@@ -1,6 +1,6 @@
 # REXUS Kernel
 
-A specialized kernel designed for firmware engineers, DIY OS developers, and hardware engineers working on complex embedded projects.
+A minimalist, high-performance kernel for embedded systems and DIY OS projects.
 
 ## Overview
 REXUS is a high-performance, lightweight kernel optimized for embedded systems with direct hardware control capabilities. It's built with a hybrid approach using C for low-level components and C++ for higher-level abstractions.
